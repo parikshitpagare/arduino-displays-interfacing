@@ -1,6 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/80714882/232607139-7e2b3d44-67c3-4dd3-bc7a-ad3a7a29035b.png)
+![Banner](https://github.com/parikshitpagare/arduino-displays-interfacing/assets/80714882/a307bbfd-0faa-43e8-ab94-d3d50b2bc5d1)
 
-## Interfacing with Arduino
+## Interfacing Arduino with Displays
 
 ![Badge](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Badge](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
