@@ -24,7 +24,7 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/80714882/233163887-ae9acdfb-9ec7-4e69-b8e3-cb7f4001731f.mp4
+https://github.com/parikshitpagare/arduino-displays-interfacing/assets/80714882/bd73a09b-1517-4f0d-b06c-43e0b66dac8f
 
 ## Circuit Diagram
 
